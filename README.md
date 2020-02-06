@@ -1,27 +1,103 @@
-# BandoraWebsite
+<p align="left"><b><a href="https://bandora.web.app/">LIVE APP</a> :point_right:</b></p>
+<p align="left"><b><a href="https://bit.ly/2S3PfyT">DOWNLOAD APP</a> :point_right:</b></p>
+<p align="center">
+    <img src="images/logo.png" width="30%" hight="30%" title="Bandora">
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
+<p align="center">
+<!-- 
+    <a href="https://www.npmjs.com/package/cordova-plugin-local-notification">
+        <img src="https://badge.fury.io/js/cordova-plugin-local-notification.svg" alt="npm version" />
+    </a>
+    -->
+</p>
 
-## Development server
+<br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+> Bandora is a social media chat mobile :iphone: and web :computer: application that lets you chat & meet new people around the world :globe_with_meridians: 
+The Bandora mobile apps are now available worldwide. Chatting With People With Your Mobile Device
+---
 
-## Code scaffolding
+<p align="center">
+    <img  hight="70%" title="Bandora Website" src="images/index.png">   
+</p>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<img width="50%" hight="50%" align="right" hspace="19" vspace="12" src="images/bandora.png"></img>
 
-## Build
+### Features
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- Meet People
+- Chats
+- Follow Users 
+- Share Posts
+- & More...
 
-## Running unit tests
+### How to get started using Bandora ?
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Download the App :point_right: [link](https://bit.ly/2S3PfyT)
+- Create an account
+- Chat with people
+- Enjoy :v:
 
-## Running end-to-end tests
+### Supported platforms
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+- [Android]() 
+- [Web Browser](https://bandora.web.app/) 
 
-## Further help
+<br>
+<br>
+<br>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Important Notice
+
+Please make sure that you always read the tagged README for **news** about Bandora. 
+
+__News__
+
+- View photos in full screen
+- Add a new page to manage user's posts
+
+## Features
+
+Bandora let you **meet new people**, **chats**, **follow users**, **edit account**, **posts messages** & more...
+
+<p align="center">
+    <img width="31%" hight="60%" title="Meet People" src="images/users.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="31%" hight="60%" title="Chats" src="images/room.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="31%" hight="60%" title="Account" src="images/more.png">
+</p>
+
+## Web Version
+
+Bandora also is designed to work on Web Browsers :computer: as well as on Mobiles :iphone:.
+
+<p align="center">
+    <img  hight="70%" title="Bandora Web" src="images/web-version.png">   
+</p>
+
+<p align="center">
+    <img width="45%" hight="60%" title="Meet People" src="images/room-computer.png">
+    &nbsp;&nbsp;
+    <img width="45%" hight="60%" title="Followers & Following" src="images/account.png">
+</p>
+
+## Contributing
+
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
+
+## License
+
+Bandora is released under the [MIT][mit_license].
+
+Made with :sparkling_heart: from Monastir, Tunisia :tunisia:
+
+:copyright: 2020 [ahmnouira][ahmnouira]
+
+[mit_license]: http://opensource.org/licenses/MIT
+[ahmnouira]: http://github.com/ahmnouira

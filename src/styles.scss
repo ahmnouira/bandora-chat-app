@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: "llcalig";
+  src: url("./assets/fonts/LCALLIG.TTF");
+  font-weight: bolder;
+}
+
+body {
+  font-family: "llcalig";
+}
