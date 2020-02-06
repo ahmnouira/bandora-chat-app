@@ -22,7 +22,7 @@ The Bandora mobile apps are now available worldwide. Chatting With People With Y
     <img  hight="70%" title="Bandora Website" src="images/index.png">   
 </p>
 
-<img width="50%" hight="50%" align="right" hspace="19" vspace="12" src="images/bandora.png"></img>
+<img width="50%" hight="50%" align="right" hspace="19" vspace="12" src="images/bandora-lite.png"></img>
 
 ### Features
 
