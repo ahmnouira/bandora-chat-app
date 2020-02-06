@@ -14,15 +14,16 @@
 
 <br>
 
-> Bandora is a social media chat mobile :iphone: and web :computer: application that lets you chat & meet new people around the world :globe_with_meridians: 
-The Bandora mobile apps are now available worldwide. Chatting With People With Your Mobile Device
+> Bandora is a social media chat mobile :iphone: and web :computer: application that lets you chat & meet new people around the world :globe_with_meridians:<br>
+The Bandora mobile apps are now available worldwide.<br>
+Chatting with people with your mobile device.
 ---
 
 <p align="center">
     <img  hight="70%" title="Bandora Website" src="images/index.png">   
 </p>
 
-<img width="50%" hight="50%" align="right" hspace="19" vspace="12" src="images/bandora-lite.png"></img>
+<img width="50%" hight="300" align="right" hspace="19" vspace="12" src="images/bandora-lite.png"></img>
 
 ### Features
 
@@ -44,6 +45,7 @@ The Bandora mobile apps are now available worldwide. Chatting With People With Y
 - [Android]() 
 - [Web Browser](https://bandora.web.app/) 
 
+<br>
 <br>
 <br>
 <br>
