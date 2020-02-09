@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "BandoraWebsite": {
+    "bandora-chat-app": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/BandoraWebsite",
+            "outputPath": "dist/bandora-chat-app",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -67,18 +67,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "BandoraWebsite:build"
+            "browserTarget": "bandora-chat-app:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "BandoraWebsite:build:production"
+              "browserTarget": "bandora-chat-app:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "BandoraWebsite:build"
+            "browserTarget": "bandora-chat-app:build"
           }
         },
         "test": {
@@ -115,15 +115,15 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "BandoraWebsite:serve"
+            "devServerTarget": "bandora-chat-app:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "BandoraWebsite:serve:production"
+              "devServerTarget": "bandora-chat-app:serve:production"
             }
           }
         }
       }
     }},
-  "defaultProject": "BandoraWebsite"
+  "defaultProject": "bandora-chat-app"
 }

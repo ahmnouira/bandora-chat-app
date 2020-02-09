@@ -25,10 +25,17 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'BandoraWebsite'`, () => {
+  it(`should have as title 'bandora-chat-app'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.debugElement.componentInstance;
-    expect(app.title).toEqual('BandoraWebsite');
+    expect(app.title).toEqual('bandora-chat-app');
+  });
+
+  it('should render title', () => {
+    const fixture = TestBed.createComponent(AppComponent);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('.content span').textContent).toContain('bandora-chat-app is running!');
   });
 
 

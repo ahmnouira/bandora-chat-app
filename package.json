@@ -1,7 +1,7 @@
 {
-  "name": "bandora",
-  "version": "1.1.0",
-  "description": "Bandora is a social media-chat mobile and web application that allows you chat, meet new people around the world and do more other stuff. The Bandora mobile apps are now available worldwide. Chatting with people using your mobile phone",
+  "name": "bandora-chat-app",
+  "version": "1.1.1",
+  "description": "BandoraChatApp is a social media chatting Mobile & Web application that allows you chat, meet new people around the world and do more other stuff.",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -12,9 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "directory": "https://github.com/ahmnouira/BandoraWebsite"
+    "directory": "https://github.com/ahmnouira/bandora-chat-app"
   },
-  "readme": "https://github.com/ahmnouira/BandoraWebsite#readme",
+  "readme": "https://github.com/ahmnouira/bandora-chat-app#readme",
   "contributors": [
     "Ahmed Nouira"
   ],
@@ -23,6 +23,12 @@
     "name": "Ahmed Nouira",
     "email": "ahmnouira@gmail.com"
   },
+  "keywords": [
+    "chat-app",
+    "social-app",
+    "chatting",
+    "social-network-app"
+  ],
   "dependencies": {
     "@angular/animations": "~8.2.14",
     "@angular/common": "~8.2.14",
