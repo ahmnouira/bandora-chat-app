@@ -1,5 +1,10 @@
+# Bandora 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ahmnouira.chat-app)
+
 <p align="left"><b><a href="https://bandora.web.app/">LIVE APP</a> :point_right:</b></p>
 <p align="left"><b><a href="https://bit.ly/2S3PfyT">DOWNLOAD APP</a> :point_right:</b></p>
+
 <p align="center">
     <img src="images/logo.png" width="30%" hight="30%" title="Bandora">
 </p>
